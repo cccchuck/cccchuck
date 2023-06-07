@@ -48,7 +48,3 @@ UniApp, Taro
 e-mail: chuckgao68686@gmail.com
 
 WeChat: Chuck2302
-
-https://java.ischuck.life
-
-https://gpt.ischuck.life
