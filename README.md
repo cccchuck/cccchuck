@@ -3,11 +3,11 @@
 
 
 ## 🚀 About Me
-👨🏻‍💻 I'm a frontender and I'm a undergraduate from Zhengzhou.
+👨🏻‍💻 I'm a front-end engineer.
 
 🧠 I'm currently learning **Web3, Smart Contract and React.**
 
-⚡️ I'm interesting in frontend, because it could make life easier by some tech.
+⚡️ I'm interesting in front-end, because it could make life easier by some tech.
 
 ☀️ Besides above, I like self-driving travel very much!
 
